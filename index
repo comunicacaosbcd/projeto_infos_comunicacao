@@ -49,7 +49,7 @@
                             Calendário de Aniversário das Unidades
                         </h1>
                         <p class="text-blue-100 text-sm md:text-base opacity-90 max-w-2xl">
-                            Consulte, filtre e ordene as datas oficiais de inauguração e o início de gestão da SBCD em cada contrato.
+                            Datas oficiais de inauguração e o início de gestão da SBCD em cada contrato.
                         </p>
                     </div>
                     <div class="bg-white/10 backdrop-blur-md px-5 py-3 rounded-xl border border-white/10 hidden sm:block">
